@@ -1,3 +1,3 @@
 # Prueba Git
 
-Esto es una prueba de git.
+Descripción random: Esto es una prueba de git.
