@@ -1,2 +1,3 @@
 # Prueba Git
-Inserte la descripción de su proyecto aquí
+
+Esto es una prueba de git.
